@@ -59,22 +59,16 @@
 
 .main3 {
     text-align: center;
-    padding-top: 60px;
+    padding: 60px 15px;
 }
 
 .main3 .txt3 {
-    padding-top: 56px;
+    padding-top: 36px;
 }
 
 .main3 img {
-    width: 70%;
-    height: 70%;
-}
-@media(max-width: 768px) {
-    .txt-h2 {
-        font-size: 24px;
-    }
-
+    width: 65%;
+    height: 65%;
 }
 
 
