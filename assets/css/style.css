@@ -1,0 +1,207 @@
+@charset "utf-8";
+/* 首页 */
+.nav1 {
+    background-color: #f8f8f8;
+}
+
+.logo {
+    padding: 0;
+}
+
+
+/*轮播图*/
+
+#carousel-example-generic {
+    margin: 50px 0 0 0;
+}
+
+.carousel-inner img {
+    margin: 0 auto;
+}
+
+
+/*内容*/
+
+.why {
+    margin-bottom: 30px;
+}
+
+.why h2 {
+    margin-top: 50px;
+    color: #0059b2;
+    text-align: center;
+}
+
+.why p {
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.reason .row .col-md-6 {
+    padding-bottom: 30px;
+}
+
+.main2 {
+    background-color: #eee;
+    text-align: center;
+    padding: 60px 15px;
+}
+
+.main2 .txt2 {
+    padding-top: 86px;
+}
+
+.main2 img {
+    width: 45%;
+    height: 45%;
+}
+
+.main3 {
+    text-align: center;
+    padding-top: 60px;
+}
+
+.main3 .txt3 {
+    padding-top: 56px;
+}
+
+.main3 img {
+    width: 70%;
+    height: 70%;
+}
+@media(max-width: 768px) {
+    .txt-h2 {
+        font-size: 24px;
+    }
+
+}
+
+
+/*脚部*/
+
+.footer {
+    background-color: #666;
+    text-align: center;
+    color: #fff;
+    padding: 20px;
+}
+
+.footer a {
+    color: #fff;
+}
+
+
+/*简介页*/
+
+.introduce {
+    margin-top: 50px;
+    background-image: url(../images/bg.jpg);
+    height: 204px;
+}
+
+.introduce .introduce-txt {
+    padding-top: 65px;
+    margin-left: 20px;
+    color: #b7b1a9;
+}
+
+.info {
+    padding: 70px 15px;
+    background-color: #eee;
+}
+
+.info1 {
+    background-color: #eee;
+}
+
+.info2 {
+    border-right: 2px solid #ccc;
+    border-bottom: 2px solid #ccc;
+    background-color: #fff;
+}
+
+.info2 h3 {
+    border-bottom: 1px solid #eee;
+    line-height: 2;
+}
+
+.info-nav li {
+    border-bottom: 1px solid #eee;
+    width: 200px;
+}
+
+.info-nav {
+    background-color: #fff;
+    border: 1px solid #ccc;
+    width: 200px;
+    position: fixed;
+}
+
+.info-nav.affix {
+    top: 200px;
+}
+
+
+/* 案例页 */
+
+.bg {
+    background-color: #eee;
+}
+
+.case {
+    padding: 70px 15px;
+}
+
+.case h3 {
+    text-align: center;
+}
+
+.case p {
+    text-align: center;
+}
+
+.case img {
+    margin: 0 auto;
+}
+
+
+/* 列表页 */
+
+.list {
+    padding: 70px 0;
+}
+
+.list1 {
+    /* background-color: #fff; */
+    /* padding: 0; */
+}
+
+.list1 img {
+    padding: 15px 0;
+    margin: 0 auto;
+}
+
+.list1 .row {
+     background-color: #fff;
+    margin-bottom: 10px;
+}
+
+@media(max-width: 768px) {
+    .list-h3 {
+        font-size: 14px;
+    }
+
+}
+
+.list h2 {
+    line-height: 2;
+}
+
+.list2 {
+    background-color: #fff;
+}
+
+.list2 .row {
+    margin-bottom: 10px;
+}
